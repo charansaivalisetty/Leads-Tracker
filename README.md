@@ -9,13 +9,13 @@ LinkedIn, GitHub, or other relevant account profiles of your leads. You can easi
 
 How to Install and Use the 'Leads Tracker' Chrome Extension:
 
-1. Installation:
+ Installation:
 
 1. Download the project folder.
 2. Go to chrome://extensions/, enable Developer Mode, and click Load Unpacked.
 3. Select the project folder to install the extension.
 
-2. Usage:
+ Usage:
   
 1. Click the extension icon in your browser to open 'Leads Tracker'.
 2. Enter a URL in the input bar and click Save Input to add it manually.
